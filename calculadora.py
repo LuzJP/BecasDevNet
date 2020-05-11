@@ -1,4 +1,4 @@
-#import math
+
 
 def suma ():
     resultado = float(op1)+float(op2)
@@ -35,7 +35,7 @@ while (op1 != "q"):
         Multiplicacion(*)
         Divison(/)
         Exponenciales (^)
-        Raiz cuadrada (por favor, siga el formato: operador = ^ y segundo operando = 1/2)
+        Raiz cuadrada (por favor, siga el formato: operador = ^ y segundo operando = 0.5)
 
         Pulse q para salir de la aplicacion
     """)
